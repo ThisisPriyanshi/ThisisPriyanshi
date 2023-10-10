@@ -1,6 +1,6 @@
  👋 Hi, I’m Priyanshi! Thanks for visiting my Profile!
  
-    - I'm a 2020 CSE graduate, currently working on upskilling 🌱 myself and gaining proficiency in DSA also learning python.  
+    - I'm a CSE graduate, currently working on upskilling 🌱 myself and gaining proficiency in DSA also learning python.  
     
     - My primary coding language is Java! 
     
