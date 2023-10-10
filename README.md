@@ -6,7 +6,7 @@
     
     - 💞️ I’m looking to collaborate on open source projects and happy to discuss Data Structures & Algorithms, Programming in Python/Java! 
     
-    - I'll be sharing my daily codes over here and the different coding sheets I'm using to practise, hope it helps aybody who needs it! 
+    - I'll be sharing my daily codes over here and the different coding sheets I'm using to practise, hope it helps anybody who needs it! 
     
     - 📫 You can reach me over LinkedIn, looking forward to hearing from you!
 
